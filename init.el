@@ -225,3 +225,5 @@
   (load custom-file))
 
 (message "\n\n Pack loading completed. Your Emacs is Live...\n\n")
+
+(blink-cursor-mode 0)
